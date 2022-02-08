@@ -53,4 +53,4 @@
 
 **感谢柳姐姐（@WillowSauceR）的帮助与指导！当前版本 v1.3（希望我还会更新）o(*^▽^*)┛**  
 **Bug反馈群 1167270197 （反馈时，请@一只莫欣儿）（另外，请注意您的说话语气及说话方式）（ψ(｀∇´)ψ）**  
-*Copyright © 2022 MOxiner (or Moxiners). All Rights Reserved.*
+ *Copyright © 2022 MOxiner (or Moxiners). All Rights Reserved.*
