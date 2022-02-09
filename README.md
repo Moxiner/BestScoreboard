@@ -5,6 +5,7 @@
 ![Release](https://img.shields.io/github/v/release/Moxiner/BestScoreboard)
 ![BDS](https://img.shields.io/badge/support--Pyr--version-1.9.9-red)
 ![CodeFactor](https://www.codefactor.io/repository/github/Moxiner/BestScoreboard/badge)  
+![QQ群]{https://img.shields.io/badge/dynamic/xml?color=9cf&label=QQ&query=1167270197&url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DvVHpP_pgjc_G9uY3jAOiF36S6a-JFRtD%26authKey%3DY9ryx8zovPbJmsOIus43C%252BHOL%252F%252FT7A3vgHLWkgFnxMmqieTQ4OGv%252Fj%252Bl3LOvGs49%26noverify%3D0%26group_code%3D1167270197}
 **实际插件很简陋，不接受吐槽（就是过来丢人的）**
 
 
