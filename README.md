@@ -3,7 +3,7 @@
 ![Liscense](https://img.shields.io/github/license/Moxiner/BestScoreboard)
 ![Downloads](https://img.shields.io/github/downloads/Moxiner/BestScoreboard/total)
 ![Release](https://img.shields.io/github/v/release/Moxiner/BestScoreboard)
-![BDS](https://img.shields.io/badge/support-Pyr-version-1.9.9-blue)
+![BDS](https://img.shields.io/badge/support--Pyr--version-1.9.9-blue)
 ![CodeFactor](https://www.codefactor.io/repository/github/Moxiner/BestScoreboard/badge)  
 **实际插件很简陋，不接受吐槽（就是过来丢人的）**
 
