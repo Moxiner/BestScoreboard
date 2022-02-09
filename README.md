@@ -5,7 +5,6 @@
 ![Release](https://img.shields.io/github/v/release/Moxiner/BestScoreboard)
 ![BDS](https://img.shields.io/badge/support--Pyr--version-1.9.9-red)
 ![CodeFactor](https://www.codefactor.io/repository/github/Moxiner/BestScoreboard/badge)  
-![QQ群]()
 **实际插件很简陋，不接受吐槽（就是过来丢人的）**
 
 
