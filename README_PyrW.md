@@ -4,18 +4,15 @@
 ![Downloads](https://img.shields.io/github/downloads/Moxiner/BestScoreboard/total)
 ![Release](https://img.shields.io/github/v/release/Moxiner/BestScoreboard)
 ![BDS](https://img.shields.io/badge/support--Pyr--version-1.9.9-red)
-![CodeFactor](https://www.codefactor.io/repository/github/Moxiner/BestScoreboard/badge)  
+![CodeFactor](https://www.codefactor.io/repository/github/Moxiner/BestScoreboard/badge) 
 
-Pyr版 | [PyrW版](https://github.com/Moxiner/BestScoreboard/README.md)
-
+[Pyr版](https://github.com/Moxiner/BestScoreboard/README.md) | PyrW版
 
 **实际插件很简陋，不接受吐槽（就是过来丢人的）**
 
-
-
 ## 【使用方法】
 
-1. 下载前置加载器 [BDSPyrunner](https://github.com/twoone-3/BDSpyrunner)
+1. 下载前置加载器 [BDSPyrunnerW](https://github.com/WillowSauceR/BDSpyrunner/releases)
 2. 下载本插件并移动到 py 目录下
 3. 启动服务器 （配置文件会自动生成） ╰(￣ω￣ｏ)
 4. 配置本插件 ( 可选 ) 
@@ -30,9 +27,8 @@ Pyr版 | [PyrW版](https://github.com/Moxiner/BestScoreboard/README.md)
     "ScoreboardSet": true,            // 启动服务器时，显示本插件设置
     "Scoreboardsidebar": true,        // 为 右侧计分板
     "Scoreboardlist": true,           // 为 游戏暂停界面计分板
-    "ScoreboardBelowname": true,      // 为 玩家头顶显示计分板
-    "ScoreboardLog":true              // 为 控制台输出日志
-
+    "ScoreboardBelowname": true,     // 为 玩家头顶显示计分板
+    "ScoreboardLog":true              // 控制台输出日志
     }
     // 由于 Pyr 中的 Json 文件不允许有注释
     // 请不要直接复制本描述代码
@@ -41,8 +37,7 @@ Pyr版 | [PyrW版](https://github.com/Moxiner/BestScoreboard/README.md)
 
 ### 【注意事项】
 
-- 请安装前置加载器 [BDSPyrunner v1.9.6](https://github.com/twoone-3/BDSpyrunner) 及以上
-- v1.9.6以下，请下载本插件的低版本（v0.0.1-1.0.0） §(*￣▽￣*)§
+- 请安装前置加载器 [BDSPyrunnerW](https://github.com/twoone-3/BDSpyrunner) 及以上
 - 此插件的设置信息可以关闭哦！ヾ(≧▽≦*)o
 ## 【图片展示】
 
@@ -65,4 +60,4 @@ Pyr版 | [PyrW版](https://github.com/Moxiner/BestScoreboard/README.md)
 **感谢柳姐姐（@WillowSauceR）的帮助与指导！当前版本 v1.3（希望我还会更新）o(*^▽^*)┛**  
 **Bug反馈群 1167270197 （反馈时，请@一只莫欣儿）（另外，请注意您的说话语气及说话方式）（ψ(｀∇´)ψ）**  
 
-*Copyright © 2022 MOxiner (or Moxiners). All Rights Reserved.*
+*Copyright © 2023 Moxiner (or Moxiners). All Rights Reserved.*

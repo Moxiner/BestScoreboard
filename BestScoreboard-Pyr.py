@@ -12,7 +12,8 @@ j = {
     "ScoreboardSet":True,
     "Scoreboardsidebar":True,
     "Scoreboardlist":True,
-    "ScoreboardBelowname":True
+    "ScoreboardBelowname":True,
+    "ScoreBoardLog":True
 }
 
 # 通知类
@@ -97,6 +98,7 @@ class Film:
             global Scoreboardsidebar
             global Scoreboardlist
             global Scoreboardbelowname
+            global ScoreboardLog
             Money = j["Money"]
             DisplayerScore = j["DisplayerScore"]
             DisplayerName = j["DisplayerName"]
@@ -104,6 +106,7 @@ class Film:
             Scoreboardsidebar = j["Scoreboardsidebar"]
             Scoreboardlist = j["Scoreboardlist"]
             Scoreboardbelowname = j["ScoreboardBelowname"]
+            ScoreboardLog = j["ScoreboardLog"]
 # 插件主要类
 class master:
     def CreateScroe(e):
@@ -160,7 +163,8 @@ class master:
         player = e["Player"]
         Score =  player.getScore(Money) 
         player.setScore(DisplayerScore , Score)
-        PrintLog.InfoLog(f"已显示玩家 {player} 的计分板")
+        if ScoreboardLog:
+            PrintLog.InfoLog(f"已显示玩家 {player} 的计分板")
 
 
     def HiddenScore(e):
@@ -170,7 +174,8 @@ class master:
         '''
         player = e["Player"]
         mc.runCommand(f"scoreboard players reset {player} {DisplayerScore}")
-        PrintLog.InfoLog(f"已隐藏玩家 {player} 的计分板")
+        if ScoreboardLog:
+            PrintLog.InfoLog(f"已隐藏玩家 {player} 的计分板")
 
     def HiddenConsoleLog(e):
         '''
@@ -199,5 +204,5 @@ mc.setListener("onJoin", master.DisplayerScore)
 mc.setListener("onLeft", master.HiddenScore)
 mc.setListener("onConsoleOutput" , master.HiddenConsoleLog)
 # 控制台输出
-PrintLog.InfoLog("已加载  v1.3")
+PrintLog.InfoLog("已加载  v1.4")
 PrintLog.InfoLog("作者：莫欣儿（Moxiner）")
