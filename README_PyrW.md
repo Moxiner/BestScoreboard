@@ -6,7 +6,7 @@
 ![BDS](https://img.shields.io/badge/support--Pyr--version-1.9.9-red)
 ![CodeFactor](https://www.codefactor.io/repository/github/Moxiner/BestScoreboard/badge) 
 
-[Pyr版](https://github.com/Moxiner/BestScoreboard/README.md) | PyrW版
+[Pyr版](https://github.com/Moxiner/BestScoreboard/blob/main/README.md) | PyrW版
 
 **实际插件很简陋，不接受吐槽（就是过来丢人的）**
 
@@ -18,7 +18,7 @@
 4. 配置本插件 ( 可选 ) 
 5. 重启服务器
 6. 完成  §(*￣▽￣*)§
-## 【配置文件】plugins/py/BestScoreboard/config.json ( •̀ ω •́ )✧
+## 【配置文件】plugins/py/BestScoreboard/Config.json ( •̀ ω •́ )✧
 ```
 {
     "Money": "money",    // 经济计分板

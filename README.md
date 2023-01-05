@@ -6,7 +6,7 @@
 ![BDS](https://img.shields.io/badge/support--Pyr--version-1.9.9-red)
 ![CodeFactor](https://www.codefactor.io/repository/github/Moxiner/BestScoreboard/badge)  
 
-Pyr版 | [PyrW版](https://github.com/Moxiner/BestScoreboard/README.md)
+Pyr版 | [PyrW版](https://github.com/Moxiner/BestScoreboard/blob/main/README_PyrW.md)
 
 
 **实际插件很简陋，不接受吐槽（就是过来丢人的）**
@@ -15,13 +15,13 @@ Pyr版 | [PyrW版](https://github.com/Moxiner/BestScoreboard/README.md)
 
 ## 【使用方法】
 
-1. 下载前置加载器 [BDSPyrunner](https://github.com/twoone-3/BDSpyrunner)
+1. 下载前置加载器 [BDSPyrunner](https://github.com/twoone-3/BDSpyrunner/releases)
 2. 下载本插件并移动到 py 目录下
 3. 启动服务器 （配置文件会自动生成） ╰(￣ω￣ｏ)
 4. 配置本插件 ( 可选 ) 
 5. 重启服务器
 6. 完成  §(*￣▽￣*)§
-## 【配置文件】plugins/py/BestScoreboard/config.json ( •̀ ω •́ )✧
+## 【配置文件】plugins/py/BestScoreboard/Config.json ( •̀ ω •́ )✧
 ```
 {
     "Money": "money",    // 经济计分板
@@ -41,7 +41,7 @@ Pyr版 | [PyrW版](https://github.com/Moxiner/BestScoreboard/README.md)
 
 ### 【注意事项】
 
-- 请安装前置加载器 [BDSPyrunner v1.9.6](https://github.com/twoone-3/BDSpyrunner) 及以上
+- 请安装前置加载器 [BDSPyrunner v1.9.6](https://github.com/twoone-3/BDSpyrunner/releases) 及以上
 - v1.9.6以下，请下载本插件的低版本（v0.0.1-1.0.0） §(*￣▽￣*)§
 - 此插件的设置信息可以关闭哦！ヾ(≧▽≦*)o
 ## 【图片展示】
